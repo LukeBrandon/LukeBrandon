@@ -4,4 +4,4 @@ I'm a software engineer that likes solving valuable problems and building softwa
 
 I primarily work with Typescript, Linux, ReactJs, C#, and Dotnet
 
-How to reach me: lukebrandon68@gmail.com
+How to reach me: lukehbrandon@gmail.com
